@@ -29,7 +29,7 @@ Hardware Architecture
 
 ## Experience
 
-[**Rustler - Videogame Testing**](https://store.steampowered.com/app/844260/Rustler/)
+[**Rustler**](https://store.steampowered.com/app/844260/Rustler/)
 **2 weeks**
 Freelance
 
