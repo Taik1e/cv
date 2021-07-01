@@ -8,7 +8,7 @@ IT Support Graduated and a hobby game tester
 In 2017 I have enrolled into High School full of enthusiasm and excitment that I will study what stuff that I like and makes me happy.
 As I have studied, I have started to find out that it is not the kind that brings me joy when I poke my nose into it, that it is actually games!
 
-After graduation I have definitely started to thinking about a starting line in the videogame industry.
+After graduation I have definitely started to think about a starting line in the videogame industry.
 
 2017-2021
 **Information & Network Technologies**
