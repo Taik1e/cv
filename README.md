@@ -11,9 +11,9 @@ As I have studied I have started to find out that it is not the hardware and tec
 After graduation I have definitely started to thinking about a starting line in the videogame industry.
 
 2017-2021
-**Information & Network Technologies
+**Information & Network Technologies**
 
-United School of Ludmila Podjavorinska, Prešov, Slovakia**
+**United School of Ludmila Podjavorinska, Prešov, Slovakia**
 
 Hardware Assembly
 
