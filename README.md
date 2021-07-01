@@ -41,7 +41,7 @@ Freelance
 
 After some time later, a small dev studio posted a question if any of the people would be willing to test an alpha demo of their game before releasing it as an full demo.
 
-At the start of the alpha test I had some technical issues as the game was not willing to start and kept crashing but after some patches I have managed to make it work and sweep thru the small 2 hours long technical demo of the game which featured the first hours of the nuclear powerplant accident.
+At the start of the alpha test, I had some technical issues as the game was not willing to start and kept crashing, but after some patches I have managed to make it work and sweep thru the small 2 hours long technical demo of the game, which featured the first hours of the nuclear powerplant accident.
 
 ## Skills
 
