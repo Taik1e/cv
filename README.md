@@ -2,13 +2,13 @@
    ![Image](https://user-images.githubusercontent.com/86750452/124050015-ec64d200-da19-11eb-9bce-fd69d4cacf71.png)
 
 
-IT Support Graduated and a hobby game tester
+IT Support graduate and a hobby game tester
 ### **Education**
 
-In 2017 I have enrolled into High School full of enthusiasm and excitment that I will study what stuff that I like and makes me happy.
-As I have studied, I have started to find out that it is not the kind that brings me joy when I poke my nose into it, that it is actually games!
+In 2017 I have enrolled into High School full of enthusiasm and excitment, thinking that I will study stuff that I like and makes me happy.
+As I have been studying, I started to find out that it is not the kind of stuff that brings me joy. It is actually games!
 
-After graduation I have definitely started to think about a starting line in the videogame industry.
+After graduation, I started to look for any entry level jobs in the videogame industry.
 
 2017-2021
 **Information & Network Technologies**
@@ -39,9 +39,9 @@ I have got an oportunity to beta test a videogame called Rustler as the devs hav
 **1 day**
 Freelance
 
-After some time later, a small dev studio posted a question if any of the people would be willing to test an alpha demo of their game before releasing it as an full demo.
+After some time, a small dev studio posted a question if any of the people would be willing to test an alpha demo of their game before releasing it as an full demo.
 
-At the start of the alpha test, I had some technical issues as the game was not willing to start and kept crashing, but after some patches I have managed to make it work and sweep thru the small 2 hours long technical demo of the game, which featured the first hours of the nuclear powerplant accident.
+At the start of the alpha test, I had some technical issues as the game was not willing to start and kept crashing, but after some patches I have managed to make it work and swept thru the small, 2 hours long technical demo of the game, which featured the first hours of the nuclear powerplant accident.
 
 ## Skills
 
@@ -74,7 +74,7 @@ At the start of the alpha test, I had some technical issues as the game was not 
            
 ## Contact
 
-Thank you, for your interest and I am looking forward to meeting you in person!
+Thank you for your interest, and I am looking forward to meeting you in person!
 I hope you have enjoyed reading my CV.
 
 
