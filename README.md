@@ -60,7 +60,7 @@ At the start of the alpha test I had some technical issues as the game was not w
  
          Linux
           
- **Hobbies** 
+ **Hobbies:** 
            
            Videogames
            
