@@ -12,6 +12,7 @@ After graduation I have definitely started to thinking about a starting line in 
 
 2017-2021
 **Information & Network Technologies
+
 United School of Ludmila Podjavorinska, Prešov, Slovakia**
 
 Hardware Assembly
